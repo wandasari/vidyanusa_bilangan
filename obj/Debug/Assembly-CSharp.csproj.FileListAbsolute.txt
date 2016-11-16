@@ -40,3 +40,24 @@ A:\thesis\VidyaNusa_1 - Copy\Temp\bin\Debug\UnityEngine.xml
 A:\thesis\VidyaNusa_1 - Copy\Temp\bin\Debug\UnityEditor.xml
 A:\thesis\VidyaNusa_1 - Copy\Temp\bin\Debug\UnityEngine.UI.xml
 A:\thesis\VidyaNusa_1 - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+A:\thesis\VidyaNusav0.1\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+A:\thesis\VidyaNusav0.1\obj\Debug\Assembly-CSharp.dll
+A:\thesis\VidyaNusav0.1\obj\Debug\Assembly-CSharp.pdb
+A:\thesis\VidyaNusav0.1\Temp\bin\Debug\Assembly-CSharp.dll
+A:\thesis\VidyaNusav0.1\Temp\bin\Debug\Assembly-CSharp.pdb
+A:\thesis\VidyaNusav0.1\Temp\bin\Debug\UnityEditor.dll
+A:\thesis\VidyaNusav0.1\Temp\bin\Debug\UnityEngine.dll
+A:\thesis\VidyaNusav0.1\Temp\bin\Debug\UnityEngine.Networking.dll
+A:\thesis\VidyaNusav0.1\Temp\bin\Debug\UnityEngine.UI.dll
+A:\thesis\VidyaNusav0.1\Temp\bin\Debug\Mono.Cecil.dll
+A:\thesis\VidyaNusav0.1\Temp\bin\Debug\Unity.SerializationLogic.dll
+A:\thesis\VidyaNusav0.1\Temp\bin\Debug\Unity.DataContract.dll
+A:\thesis\VidyaNusav0.1\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+A:\thesis\VidyaNusav0.1\Temp\bin\Debug\Unity.UNetWeaver.dll
+A:\thesis\VidyaNusav0.1\Temp\bin\Debug\Unity.CecilTools.dll
+A:\thesis\VidyaNusav0.1\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+A:\thesis\VidyaNusav0.1\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+A:\thesis\VidyaNusav0.1\Temp\bin\Debug\UnityEngine.xml
+A:\thesis\VidyaNusav0.1\Temp\bin\Debug\UnityEditor.xml
+A:\thesis\VidyaNusav0.1\Temp\bin\Debug\UnityEngine.UI.xml
+A:\thesis\VidyaNusav0.1\Temp\bin\Debug\UnityEngine.Networking.xml

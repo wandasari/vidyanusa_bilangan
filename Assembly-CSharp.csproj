@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{563AB99D-0A6F-DB1D-B5D7-3504B59C4123}</ProjectGuid>
+    <ProjectGuid>{2D38BDF8-D9D5-1031-DF2D-EA8A529FE708}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -52,6 +52,7 @@
      <Compile Include="Assets\Scripts\Slot.cs" />
      <Compile Include="Assets\Scripts\box.cs" />
      <Compile Include="Assets\Scripts\main.cs" />
+     <Compile Include="Assets\Scripts\tampil_time.cs" />
      <Compile Include="Assets\Scripts\timer.cs" />
      <Compile Include="Assets\Scripts\tombol_aruna.cs" />
  <Reference Include="UnityEngine.UI">
